@@ -5,6 +5,5 @@
 - Низкая цена
 
 Логотип:
-!
-  <img src= "logo.png">
+  <img src ="logo.png">
   
